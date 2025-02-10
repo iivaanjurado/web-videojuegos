@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo */}
         <Link to="/" className="text-3xl font-bold text-yellow-400 hover:text-yellow-500 transition-all duration-300">
-          GameHub
+          WikGame
         </Link>
 
         {/* Menú de navegación */}

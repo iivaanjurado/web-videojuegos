@@ -19,7 +19,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="text-gray-400">
-          <p>&copy; {new Date().getFullYear()} GameHub. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} WikGame. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
